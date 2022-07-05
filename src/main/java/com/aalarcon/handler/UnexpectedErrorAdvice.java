@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.ResponseStatus;
  * UnexpectedErrorAdvice.
  * Handler para Unexpected Errors
  *
- * @author Giancarlo Manzano
+ * @author Anthony Alarcon
  * @version 1.0
  */
 @ControllerAdvice

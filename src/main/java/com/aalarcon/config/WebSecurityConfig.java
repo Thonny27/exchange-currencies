@@ -20,7 +20,7 @@ import org.springframework.security.web.authentication.UsernamePasswordAuthentic
  * WebSecurity.
  * Adaptador para la configuración de Autenticacion
  *
- * @author Giancarlo Manzano
+ * @author Anthony Alarcon
  * @version 1.0
  */
 @Configuration

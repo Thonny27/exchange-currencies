@@ -11,7 +11,7 @@ import org.springframework.stereotype.Service;
  * JwtUserDetailsService.
  * Servicio para validar usuario
  *
- * @author Giancarlo Manzano
+ * @author Anthony Alarcon
  * @version 1.0
  */
 @Service

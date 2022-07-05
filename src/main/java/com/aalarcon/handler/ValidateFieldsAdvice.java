@@ -23,7 +23,7 @@ import org.springframework.web.servlet.mvc.method.annotation.ResponseEntityExcep
  * ValidateFieldsAdvice.
  * Handler para ValidateFields
  *
- * @author Giancarlo Manzano
+ * @author Anthony Alarcon
  * @version 1.0
  */
 @ControllerAdvice

@@ -8,7 +8,7 @@ import org.springframework.data.jpa.repository.Query;
  * EchangeRateRepository.
  * Repository de la entidad EchangeRate
  *
- * @author Giancarlo Manzano
+ * @author Anthony Alarcon
  * @version 1.0
  */
 public interface ExchangeRateRepository extends JpaRepository<ExchangeRate, Long> {

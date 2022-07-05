@@ -6,7 +6,7 @@ import lombok.extern.slf4j.Slf4j;
  * UnexpectedErrorException.
  * Excepcion personalizada para UnexpectedErrors
  *
- * @author Giancarlo Manzano
+ * @author Anthony Alarcon
  * @version 1.0
  */
 @Slf4j

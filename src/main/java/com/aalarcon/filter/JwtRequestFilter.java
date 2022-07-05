@@ -21,7 +21,7 @@ import org.springframework.web.filter.OncePerRequestFilter;
  * JwtRequestFilter.
  * Filter jwt
  *
- * @author Giancarlo Manzano
+ * @author Anthony Alarcon
  * @version 1.0
  */
 @Component

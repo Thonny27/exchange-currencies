@@ -30,7 +30,7 @@ import org.springframework.web.bind.annotation.*;
  * CurrencyController.
  * Controlador de Currencies
  *
- * @author Giancarlo Manzano
+ * @author Anthony Alarcon
  * @version 1.0
  */
 @RestController

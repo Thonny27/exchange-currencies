@@ -7,7 +7,7 @@ import lombok.NoArgsConstructor;
  * Constants.
  * Constantes de la aplicación
  *
- * @author Giancarlo Manzano
+ * @author Anthony Alarcon
  * @version 1.0
  */
 @NoArgsConstructor(access = AccessLevel.PRIVATE)

@@ -4,7 +4,7 @@ package com.aalarcon.exchangerate.entity;
  * Status.
  * Enumerador de Estados
  *
- * @author Giancarlo Manzano
+ * @author Anthony Alarcon
  * @version 1.0
  */
 public enum Status {

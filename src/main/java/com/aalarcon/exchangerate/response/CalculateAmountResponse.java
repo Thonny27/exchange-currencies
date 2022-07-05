@@ -15,7 +15,7 @@ import java.math.BigDecimal;
  * ErrorResponse.
  * Objeto de respuesta para errores
  *
- * @author Giancarlo Manzano
+ * @author Anthony Alarcon
  * @version 1.0
  */
 @AllArgsConstructor

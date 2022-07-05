@@ -13,7 +13,7 @@ import org.springframework.stereotype.Component;
  * ExchangeRateModelAssembler.
  * Clase que permite armar el modelo de ExchangeRate
  *
- * @author Giancarlo Manzano
+ * @author Anthony Alarcon
  * @version 1.0
  */
 @Component

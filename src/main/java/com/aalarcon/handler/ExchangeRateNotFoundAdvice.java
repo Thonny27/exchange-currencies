@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.ResponseStatus;
  * ExchangeRateNotFoundAdvice.
  * Handler para ExchangeRateNotFound
  *
- * @author Giancarlo Manzano
+ * @author Anthony Alarcon
  * @version 1.0
  */
 @ControllerAdvice

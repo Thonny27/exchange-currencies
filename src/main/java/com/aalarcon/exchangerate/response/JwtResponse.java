@@ -7,7 +7,7 @@ import lombok.RequiredArgsConstructor;
  * JwtResponse.
  * Objeto de respuesta para jwt
  *
- * @author Giancarlo Manzano
+ * @author Anthony Alarcon
  * @version 1.0
  */
 @RequiredArgsConstructor

@@ -15,7 +15,7 @@ import org.springframework.stereotype.Component;
  * JwtTokenUtil.
  * Clase para el manejo de Tokens JWT
  *
- * @author Giancarlo Manzano
+ * @author Anthony Alarcon
  * @version 1.0
  */
 @Component

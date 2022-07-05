@@ -12,7 +12,7 @@ import org.springframework.stereotype.Component;
  * CurrencyModelAssembler.
  * Clase que permite armar el modelo de Currency
  *
- * @author Giancarlo Manzano
+ * @author Anthony Alarcon
  * @version 1.0
  */
 @Component

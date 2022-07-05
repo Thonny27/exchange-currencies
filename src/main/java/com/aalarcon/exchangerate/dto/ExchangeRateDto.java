@@ -17,7 +17,7 @@ import lombok.Setter;
  * ExchangeRateDto.
  * Dto para ExchangeRate
  *
- * @author Giancarlo Manzano
+ * @author Anthony Alarcon
  * @version 1.0
  */
 @AllArgsConstructor
