@@ -136,7 +136,7 @@ public class CurrencyController {
    *
    * @return ResponseEntity
    */
-  @DeleteMapping("/delete-currencies/id/{id}/")
+  @DeleteMapping("/delete-currencies/id/{id}")
   public ResponseEntity<Object> deleteCurrency(@PathVariable Long id) {
     currencyRepository.deleteById(id);
     return ResponseEntity.noContent().build();
